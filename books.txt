@@ -1,0 +1,8 @@
+Novel|Laskar Pelangi|Andrea Hirata|2005|Borrowed
+Novel|Bumi Manusia|Pramoedya Ananta Toer|1980|Borrowed
+Education|Python Basic|John Doe|2023|Available
+Education|Clean Code|Robert C. Martin|2008|Available
+Novel|Harry Potter|J.K. Rowling|1997|Available
+Education|Clean Architecture|Robert C. Martin|2012|Available
+Novel|Dilan|Pidi Baiq|2015|Available
+Novel|Laskar Pelangi|Andrea Hirata|2005|Available
